@@ -1,2 +1,2 @@
 # BroadcastReceiver
-A code class that receives and processes publication purposes
+A code class that receives and processes publication purposes.

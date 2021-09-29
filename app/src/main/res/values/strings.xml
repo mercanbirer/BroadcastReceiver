@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BroadcastReceiver</string>
+    <string name="bluetooth_l_st">BLUETOOTH LİST</string>
 </resources>
